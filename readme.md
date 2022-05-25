@@ -1,5 +1,5 @@
 # REQUIREMENTS
-* Windows 10
+* Windows 10 (Albat Sxva Windowsis Versiebzec Imoqmedebs Mara Linuxze Da Ragaceebze Aramgonia Radganac Natias Xma Executable Ari)
 * Python
 * Natia Voice
 * Virutal Cable Input/Output
