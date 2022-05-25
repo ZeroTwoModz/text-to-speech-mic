@@ -33,3 +33,5 @@ https://vb-audio.com/Cable/index.htm
 Tu Rame Error Amogigdot Ar Mogeridot Damikavshirdit Sadme An Gaxsenit [ISSUE](https://github.com/ZeroTwoModz/text-to-speech-mic/issues)
 
 Umetesad `main.py` Ro Daachert Normalurad Titon Gaxsnis Mara Tu Ar Gaxsna Command Prompt Gaxsenit Da Iq `python main.py` Chaweret
+
+Qartuli Shriftit Wera Rekomendirebulia Radganac Latinurze Ragacnairad Ityvis Sityvebs
