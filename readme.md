@@ -35,3 +35,5 @@ Tu Rame Error Amogigdot Ar Mogeridot Damikavshirdit Sadme An Gaxsenit [ISSUE](ht
 Umetesad `main.py` Ro Daachert Normalurad Titon Gaxsnis Mara Tu Ar Gaxsna Command Prompt Gaxsenit Da Iq `python main.py` Chaweret
 
 Qartuli Shriftit Wera Rekomendirebulia Radganac Latinurze Ragacnairad Ityvis Sityvebs
+
+Sxva PCze Ar Gamitestia Amitomac Sheizleba Racxa Arasworad Wavites
