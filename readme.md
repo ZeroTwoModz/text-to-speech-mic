@@ -30,6 +30,6 @@ https://vb-audio.com/Cable/index.htm
 
 
 # ADDITIONAL
-Tu Rame Error Amogigdot Ar Mogeridot Damikavshirdit Sadme An Gaxsenit [ISSUE](https://github.com/ZeroTwoModz/tts-vc/issues)
+Tu Rame Error Amogigdot Ar Mogeridot Damikavshirdit Sadme An Gaxsenit [ISSUE](https://github.com/ZeroTwoModz/text-to-speech-mic)
 
 Umetesad `main.py` Ro Daachert Normalurad Titon Gaxsnis Mara Tu Ar Gaxsna Command Prompt Gaxsenit Da Iq `python main.py` Chaweret
